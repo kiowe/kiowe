@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**kiowe/kiowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+  <sub>
+    Yo, I'm <a href="https://github.com/kiowe">kiowe</a>.<br>
+    I'm programmer from Russia. I'm trying to program on <strong>[C++], [C#], [Lua/GLua]</strong>.<br>
+    You can find me here: <a href="https://vk.com/kiowe">@vk</a> | @discord: <strong>mn#9831</strong>.<br>
+  </sub>
+  </samp>
+  <br>
+  <img src="https://github.com/kiowe/kiowe/blob/main/aliendancing.gif" width="150"/>
+</p>
